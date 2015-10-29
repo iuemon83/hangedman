@@ -1,0 +1,11 @@
+.charBox {
+    height: 30px;
+    width: 30px;
+    border: solid 1px black;
+    cursor: pointer;
+    -moz-user-select: none;
+}
+
+.showWordSpace {
+    margin: 10px;
+}
